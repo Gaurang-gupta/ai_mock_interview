@@ -8,7 +8,7 @@ const monaSans = Mona_Sans({
   subsets: ["latin"],
 });
 
-// 1:58:11
+// 2:27:47
 
 export const metadata: Metadata = {
   title: "PrepWise",
@@ -26,7 +26,6 @@ export default function RootLayout({
         className={`${monaSans.className} antialiased pattern`}
       >
         {children}
-
         <Toaster/>
       </body>
     </html>
