@@ -8,7 +8,7 @@ const monaSans = Mona_Sans({
   subsets: ["latin"],
 });
 
-// 2:41:43
+// 3:00:38
 
 export const metadata: Metadata = {
   title: "PrepWise",
